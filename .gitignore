@@ -32,3 +32,13 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 .Rproj.user
+
+cookies
+
+temp_gdelt_data/1983.csv
+
+temp_gdelt_data/1983.zip
+
+temp_gdelt_data/1989.csv
+
+temp_gdelt_data/1989.zip
